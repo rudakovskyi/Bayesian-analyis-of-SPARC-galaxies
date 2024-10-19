@@ -1,0 +1,14 @@
+CamB
+iter: 7997 | bound: 9411 | nc: 8715 | ncall: 7733445 | eff(%):  0.103 | loglstar:   -inf < -67.336 <    inf | logz: -85.132 +/-  0.258 | dlogz: 29.405 >  0.100                                       
+F571-8
+iter: 17512 | bound: 11540 | nc: 2391 | ncall: 9143164 | eff(%):  0.192 | loglstar:   -inf < -209.119 <    inf | logz: -242.604 +/-  0.344 | dlogz:  5.870 >  0.100                                   
+IC2574
+iter: 12762 | bound: 18422 | nc: 902 | ncall: 14486424 | eff(%):  0.088 | loglstar:   -inf < -126.582 <    inf | logz: -153.361 +/-  0.319 | dlogz: 21.346 >  0.100                                   
+NGC4217
+iter: 13550 | bound: 15018 | nc: 28296 | ncall: 12000385 | eff(%):  0.113 | loglstar:   -inf < -72.855 <    inf | logz: -98.165 +/-  0.299 | dlogz:  2.760 >  0.100                                   
+NGC5985
+iter: 23334 | bound: 22051 | nc: 3031 | ncall: 17265010 | eff(%):  0.135 | loglstar:   -inf < -190.577 <    inf | logz: -236.296 +/-  0.415 | dlogz:  3.713 >  0.100                                  
+UGC01281
+iter: 11256 | bound: 73549 | nc: 91081 | ncall: 56034643 | eff(%):  0.020 | loglstar:   -inf <   -inf <    inf | logz:   -inf +/-  0.343 | dlogz: 210751.490 >  0.100                                 
+UGC03580
+iter: 13875 | bound: 17634 | nc: 6253 | ncall: 13888241 | eff(%):  0.100 | loglstar:   -inf < -179.782 <    inf | logz: -208.630 +/-  0.332 | dlogz: 20.649 >  0.100                                  
